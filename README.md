@@ -54,7 +54,7 @@
 
   <details>
         <summary><b>interests</b></summary>
-        <p>dandys world, lego monkie kid, deadlock, cyberpunk, fear and hunger, murder drones, tadc, resident evil, dol, project hail mary, iron lung, sonic, final space, inside job,splatoon</p>
+        <p>dandys world, lego monkie kid, deadlock, cyberpunk, fear and hunger, murder drones, tadc, resident evil, dol, project hail mary, iron lung, sonic, final space, inside job, splatoon</p>
       </details>
 
   <hr />
@@ -72,9 +72,12 @@
    <details>
         <summary><b>OC gallery</b></summary>
         <ul>
-      
-   <p><i>WIP</i></p>
-      </details>
+      <li>cool edit of me and nox by seeashore! 
+<video src="https://github.com/user-attachments/assets/ad74f3a6-16fb-4ae4-b3be-febefd4e0e6e" controls="controls" preload="auto" muted playsinline style="max-width: 60%;"></video>
+      <li>my vtuber by msgrimm! 
+<video src="https://github.com/user-attachments/assets/15fd958f-fbc4-47c5-baa6-1270552404e7" controls="controls" preload="auto" muted playsinline style="max-width: 60%;"></video>
+      <li>more to come </ul>
+</details>
 
   <hr />
 
