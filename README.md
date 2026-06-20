@@ -44,7 +44,7 @@
         <ul>
           <li>played pt since 2019</li>
           <li>not very active in ponytown due to college</li>
-          <li>this is not about me but i have to say that <a href="https://tiktok.com" target="_blank">my bf</a> is amazing. ok. OK!</li>
+          <li>this is not about me but i have to say that <a href="https://www.tiktok.com/@noxynoc" target="_blank">my bf</a> is amazing. ok. OK!</li>
           <li>i love finn x gigi if that isnt obvious</li>
         </ul>
         <img width="40%" alt="kith" src="https://github.com/user-attachments/assets/c8222839-fd0a-452e-9c64-38133960df62" />
@@ -54,7 +54,7 @@
 
   <details>
         <summary><b>interests</b></summary>
-        <p>dandys world, lego monkie kid, deadlock, cyberpunk, fear and hunger, murder drones, tadc, resident evil, dol, project hail mary, iron lung, sonic, final space, inside job</p>
+        <p>dandys world, lego monkie kid, deadlock, cyberpunk, fear and hunger, murder drones, tadc, resident evil, dol, project hail mary, iron lung, sonic, final space, inside job,splatoon</p>
       </details>
 
   <hr />
@@ -72,22 +72,22 @@
    <details>
         <summary><b>OC gallery</b></summary>
         <ul>
-          <li>cool edit of me and <a href="https://tiktok.com" target="_blank">nox</a> by <a href="https://tiktok.com!" target="_blank">seeashore</a></li>
-        </ul>
-        <video src="https://github.com" controls="controls" preload="auto" muted playsinline width="100%"></video>
-        <ul>
-          <li>my vtuber by <a href="https://tiktok.com" target="_blank">msgrimm!</a></li>
-        </ul>
-        <video src="https://github.com" controls="controls" preload="auto" muted playsinline width="100%"></video>
-        <p><i>more to come</i></p>
+      
+   <p><i>WIP</i></p>
       </details>
 
   <hr />
 
   <details>
-     <summary><b>🖌️ comm info</b></summary>
-        <p>Coming soon!</p>
-      </details>
+ <summary><b>🖌️ comm info</b></summary>
+     <ul>
+    <li>$${\color{red}\textbf{status: closed}}$$
+    <li>$${\color{yellow}\textbf{currently working on comms 4/5}}$$
+      <ul>
+        &nbsp;
+<img width=100%% height="1688" alt="Headshot_page-0001" src="https://github.com/user-attachments/assets/e7f11f1e-0adc-4de8-aed7-ee19edafac91" />
+<img width=100%% alt="sash_comm_page-0002" src="https://github.com/user-attachments/assets/28cedd27-d365-4a71-bdd4-71304ebf5c8c" />
+</details>
       
 ---
   
